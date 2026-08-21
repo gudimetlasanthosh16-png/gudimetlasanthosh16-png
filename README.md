@@ -130,33 +130,32 @@ fun_fact: "I turn coffee into scalable architecture and responsive code ☕⚡"
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity & Real-time Metrics
 
 <div align="center">
+
+  <!-- Activity & Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gudimetlasanthosh16-png&theme=react-dark&hide_border=true&bg_color=0f172a&color=38bdf8&line=38bdf8&point=f59e0b" alt="Activity Graph" width="100%" />
+
+  <br/><br/>
+
+  <!-- Stats & Top Languages Cards -->
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=gudimetlasanthosh16-png&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=38bdf8&text_color=e2e8f0&icon_color=f59e0b&bg_color=0f172a" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=gudimetlasanthosh16-png&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=38bdf8&text_color=e2e8f0&icon_color=f59e0b&bg_color=0f172a" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudimetlasanthosh16-png&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" alt="Top Languages" />
+        <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gudimetlasanthosh16-png&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gudimetlasanthosh16-png&theme=radical&hide_border=true&background=0F172A&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <!-- Profile Details Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gudimetlasanthosh16-png&theme=radical" alt="GitHub Profile Summary" />
 
-  <br/><br/>
-
-  <!-- Animated Contribution Snake -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gudimetlasanthosh16-png/gudimetlasanthosh16-png/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gudimetlasanthosh16-png/gudimetlasanthosh16-png/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/gudimetlasanthosh16-png/gudimetlasanthosh16-png/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
 </div>
 
 ---
